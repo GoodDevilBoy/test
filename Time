@@ -247,8 +247,8 @@
         // Office hours configuration
         const OFFICE_START_HOUR = 9;
         const OFFICE_START_MINUTE = 30;
-        const OFFICE_END_HOUR = 5;
-        const OFFICE_END_MINUTE = 0;
+        const OFFICE_END_HOUR = 17;
+        const OFFICE_END_MINUTE = 30;
 
         function formatTime(hours, minutes, seconds) {
             return `${String(hours).padStart(2, '0')}:${String(minutes).padStart(2, '0')}:${String(seconds).padStart(2, '0')}`;
