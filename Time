@@ -240,14 +240,14 @@
     </div>
 
     <script>
-        const BIRTHDAY_MONTH = 1; // January (0-based)
+        const BIRTHDAY_MONTH = 01; // January (0-based)
         const BIRTHDAY_DAY = 09;
         const THEME_START_DAYS_BEFORE = 7;
         
         // Office hours configuration
         const OFFICE_START_HOUR = 9;
         const OFFICE_START_MINUTE = 30;
-        const OFFICE_END_HOUR = 17;
+        const OFFICE_END_HOUR = 5;
         const OFFICE_END_MINUTE = 0;
 
         function formatTime(hours, minutes, seconds) {
