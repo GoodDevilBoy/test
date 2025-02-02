@@ -242,7 +242,7 @@
     <script>
         const BIRTHDAY_MONTH = 01; // January (0-based)
         const BIRTHDAY_DAY = 09;
-        const THEME_START_DAYS_BEFORE = 7;
+        const THEME_START_DAYS_BEFORE = 1;
         
         // Office hours configuration
         const OFFICE_START_HOUR = 9;
