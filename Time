@@ -175,7 +175,7 @@
     <div class="container">
         <div class="main-card">
             <div class="header">
-                <h1 class="title">Time Tracking Dashboard</h1>
+                <h1 class="title">Lenin M Simon</h1>
                 <div class="current-time" id="current-time">00:00:00</div>
                 <div class="date-display" id="date-display"></div>
                 <div class="birthday-countdown" id="birthday-countdown"></div>
